@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Hygiene"
+  short_description: "Audit docs, tests, and onboarding; file useful issues"
+  default_prompt: "Use $project-hygiene to audit this project and add evidence-backed hygiene issues to its GitHub backlog."
