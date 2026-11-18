@@ -35,6 +35,7 @@ for discovery locations and symlink support.
 | --- | --- |
 | [setup-project-hygiene](skills/setup-project-hygiene/SKILL.md) | Install and verify a project-specific hygiene cycle after five completed implementation tickets. |
 | [project-hygiene](skills/project-hygiene/SKILL.md) | Audit documentation, tests, and agent onboarding, then file actionable GitHub backlog issues. |
+| [push](skills/push/SKILL.md) | Push a task branch, open or reuse its PR, merge when checks pass, and clean up. |
 
 In a project chat, ask:
 
